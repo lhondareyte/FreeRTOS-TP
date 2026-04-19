@@ -5,6 +5,6 @@ Trying to create a clean separation between application and [the FreeRTOS](https
     CMakeLists.txt
     FreeRTOS         # FreeRTOS kernel as a submodule
     app              # Separate application source code
-    cmake            # Additionnale cmake configuration files
+    cmake            # Additionnals cmake configuration files
     build.sh         # simple build script 
 
