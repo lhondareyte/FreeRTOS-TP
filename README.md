@@ -1,4 +1,4 @@
-# Some test with FreeRTOS kernel
+# Tests with FreeRTOS kernel
 
 Trying to create a clean separation between application and [the FreeRTOS](https://github.com/FreeRTOS/FreeRTOS-Kernel) kernel source code.
 
